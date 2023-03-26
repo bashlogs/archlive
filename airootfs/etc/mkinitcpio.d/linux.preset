@@ -1,0 +1,8 @@
+# mkinitcpio preset file for the 'linux' package on archiso
+
+PRESETS=('vitunix')
+
+ALL_kver='/boot/vmlinuz-linux'
+ALL_config='/etc/mkinitcpio.conf'
+
+vitunix_image="/boot/initramfs-linux.img"

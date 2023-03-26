@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:vitunix
+wheel:x:10:vitunix
+uucp:x:14:vitunix
+vitunix:x:1000:

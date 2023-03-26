@@ -1,0 +1,13 @@
+NAME="Vitunix"
+ID=Vitunix
+ID_LIKE="vitunix"
+BUILD_ID=rolling
+VERSION_ID=2023.01.13
+PRETTY_NAME="Vitunix Linux"
+ANSI_COLOR="0;36"
+HOME_URL="https://github.com/vitunix"
+SUPPORT_URL="https://github.com/bashlogs/"
+BUG_REPORT_URL="https://github.com/vitunix/Vitunix-Home-OS/issues"
+LOGO=vitunix
+IMAGE_ID=vitunix
+IMAGE_VERSION=2023.1.13
